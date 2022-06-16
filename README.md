@@ -22,7 +22,7 @@ https://developer.apple.com/tutorials/swiftui
 - [x] Generate Previews Dynamically
 
 ### 003. Handling User Input
-- [ ] Mark the User’s Favorite Landmarks
+- [x] Mark the User’s Favorite Landmarks
 - [ ] Filter the List View
 - [ ] Add a Control to Toggle the State
 - [ ] Use an Observable Object for Storage
