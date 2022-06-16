@@ -21,3 +21,10 @@ https://developer.apple.com/tutorials/swiftui
 - [x] Pass Data into Child Views
 - [x] Generate Previews Dynamically
 
+### 003. Handling User Input
+- [x] Mark the User’s Favorite Landmarks
+- [x] Filter the List View
+- [x] Add a Control to Toggle the State
+- [x] Use an Observable Object for Storage
+- [x] Adopt the Model Object in Your Views
+- [x] Create a Favorite Button for Each Landmark
