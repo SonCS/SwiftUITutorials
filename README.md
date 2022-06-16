@@ -17,7 +17,7 @@ https://developer.apple.com/tutorials/swiftui
 - [x] Customize the Row Preview
 - [x] Create the List of Landmarks
 - [x] Make the List Dynamic
-- [ ] Set Up Navigation Between List and Detail
+- [x] Set Up Navigation Between List and Detail
 - [ ] Pass Data into Child Views
 - [ ] Generate Previews Dynamically
 
