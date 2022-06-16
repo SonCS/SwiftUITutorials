@@ -13,7 +13,7 @@ https://developer.apple.com/tutorials/swiftui
 
 ### 002. Building Lists and Navigation
 - [x] Create a Landmark Model
-- [ ] Create the Row View
+- [x] Create the Row View
 - [ ] Customize the Row Preview
 - [ ] Create the List of Landmarks
 - [ ] Make the List Dynamic
