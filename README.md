@@ -10,3 +10,14 @@ https://developer.apple.com/tutorials/swiftui
 - [x] Create a Custom Image View
 - [x] Use SwiftUI Views From Other Frameworks
 - [x] Compose the Detail View
+
+### 002. Building Lists and Navigation
+- [x] Create a Landmark Model
+- [x] Create the Row View
+- [x] Customize the Row Preview
+- [x] Create the List of Landmarks
+- [x] Make the List Dynamic
+- [x] Set Up Navigation Between List and Detail
+- [x] Pass Data into Child Views
+- [x] Generate Previews Dynamically
+
