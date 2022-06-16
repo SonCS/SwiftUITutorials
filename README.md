@@ -19,5 +19,5 @@ https://developer.apple.com/tutorials/swiftui
 - [x] Make the List Dynamic
 - [x] Set Up Navigation Between List and Detail
 - [x] Pass Data into Child Views
-- [ ] Generate Previews Dynamically
+- [x] Generate Previews Dynamically
 
