@@ -26,5 +26,5 @@ https://developer.apple.com/tutorials/swiftui
 - [x] Filter the List View
 - [x] Add a Control to Toggle the State
 - [x] Use an Observable Object for Storage
-- [ ] Adopt the Model Object in Your Views
+- [x] Adopt the Model Object in Your Views
 - [ ] Create a Favorite Button for Each Landmark
