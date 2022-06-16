@@ -12,12 +12,12 @@ https://developer.apple.com/tutorials/swiftui
 - [x] Compose the Detail View
 
 ### 002. Building Lists and Navigation
-- [] Create a Landmark Model
-- [] Create the Row View
-- [] Customize the Row Preview
-- [] Create the List of Landmarks
-- [] Make the List Dynamic
-- [] Set Up Navigation Between List and Detail
-- [] Pass Data into Child Views
-- [] Generate Previews Dynamically
+- [ ] Create a Landmark Model
+- [ ] Create the Row View
+- [ ] Customize the Row Preview
+- [ ] Create the List of Landmarks
+- [ ] Make the List Dynamic
+- [ ] Set Up Navigation Between List and Detail
+- [ ] Pass Data into Child Views
+- [ ] Generate Previews Dynamically
 
