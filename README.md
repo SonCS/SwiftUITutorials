@@ -35,5 +35,5 @@ https://developer.apple.com/tutorials/swiftui
 - [x] Create Drawing Data for a Badge View
 - [x] Draw the Badge Background
 - [x] Draw the Badge Symbol
-- [ ] Combine the Badge Foreground and Background
+- [x] Combine the Badge Foreground and Background
 
