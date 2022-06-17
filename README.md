@@ -33,7 +33,7 @@ https://developer.apple.com/tutorials/swiftui
 ## Chapter2. Drawing and Animation
 ### 001. Drawing Paths and Shapes
 - [x] Create Drawing Data for a Badge View
-- [ ] Draw the Badge Background
+- [x] Draw the Badge Background
 - [ ] Draw the Badge Symbol
 - [ ] Combine the Badge Foreground and Background
 
