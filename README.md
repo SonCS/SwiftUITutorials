@@ -28,3 +28,12 @@ https://developer.apple.com/tutorials/swiftui
 - [x] Use an Observable Object for Storage
 - [x] Adopt the Model Object in Your Views
 - [x] Create a Favorite Button for Each Landmark
+
+
+## Chapter2. Drawing and Animation
+### 001. Drawing Paths and Shapes
+- [ ] Create Drawing Data for a Badge View
+- [ ] Draw the Badge Background
+- [ ] Draw the Badge Symbol
+- [ ] Combine the Badge Foreground and Background
+
